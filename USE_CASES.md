@@ -1609,7 +1609,7 @@ In order to gain access to the Email Activity Feed API, you must [purchase](http
 <a name="heroku"></a>
 # Deploying to Heroku
 
-Use the button below to instantly setup your own Simple instance for sending email using SendGrid on Heroku.
+Use the button below to instantly setup your own Simple instance for sending email using SendGrid on Build.io.
 
 <a href="https://heroku.com/deploy?template=https://github.com/sendgrid/sendgrid-php/tree/example-heroku-hello-email">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
